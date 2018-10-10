@@ -1,3 +1,5 @@
+require 'rspec'
+
 describe 'Shoe' do
   let(:shoe) { Shoe.new("Nike") }
 
